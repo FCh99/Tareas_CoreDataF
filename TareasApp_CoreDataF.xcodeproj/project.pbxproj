@@ -13,6 +13,7 @@
 		8DAE37C51F18CEDF00912766 /* TareasApp_CoreDataF.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8DAE37C31F18CEDF00912766 /* TareasApp_CoreDataF.xcdatamodeld */; };
 		8DAE37C71F18CEDF00912766 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DAE37C61F18CEDF00912766 /* Assets.xcassets */; };
 		8DAE37CA1F18CEDF00912766 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DAE37C81F18CEDF00912766 /* LaunchScreen.storyboard */; };
+		8DAE37D21F18D74B00912766 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAE37D11F18D74B00912766 /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8DAE37C61F18CEDF00912766 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8DAE37C91F18CEDF00912766 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8DAE37CB1F18CEDF00912766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DAE37D11F18D74B00912766 /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8DAE37BC1F18CEDF00912766 /* AppDelegate.swift */,
+				8DAE37D11F18D74B00912766 /* AddViewController.swift */,
 				8DAE37BE1F18CEDF00912766 /* ViewController.swift */,
 				8DAE37C01F18CEDF00912766 /* Main.storyboard */,
 				8DAE37C61F18CEDF00912766 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			files = (
 				8DAE37C51F18CEDF00912766 /* TareasApp_CoreDataF.xcdatamodeld in Sources */,
 				8DAE37BF1F18CEDF00912766 /* ViewController.swift in Sources */,
+				8DAE37D21F18D74B00912766 /* AddViewController.swift in Sources */,
 				8DAE37BD1F18CEDF00912766 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
